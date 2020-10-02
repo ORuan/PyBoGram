@@ -9,6 +9,13 @@
 - Python learned content
 - Services automated
 
+## Features
+- Add
+ - Get informations publics and save in dataframe
+ - Get profiles that following targets
+- Resolve
+ - Error in to follow 100 results profile of the search
+
 ## Technologies used
 
 > Python
